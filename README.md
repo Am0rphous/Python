@@ -10,3 +10,4 @@
 
 ## Network
 - [PySocks](https://github.com/Anorov/PySocks) - _A SOCKS proxy client and wrapper for Python._
+- [Urllib3](https://github.com/urllib3/urllib3) - _Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more [urllib3.readthedocs.io](https://urllib3.readthedocs.io)._
