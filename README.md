@@ -12,10 +12,13 @@
 - [uncompyle6](https://pypi.org/project/uncompyle6/)
 
 ## Files
-- [Python-Magic](https://github.com/ahupp/python-magic) -  A python wrapper for libmagic.
+- [Python-Magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic.
 - [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
 
+## HTTP/S server
+- [Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
+
 ## Network
-- [Curses Demo](https://github.com/cmsteffen-code/curses_demo) - _A demonstration of the use of curses with sockets._
-- [PySocks](https://github.com/Anorov/PySocks) - _A SOCKS proxy client and wrapper for Python._
-- [Urllib3](https://github.com/urllib3/urllib3) - _Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more [urllib3.readthedocs.io](https://urllib3.readthedocs.io)._
+- [Curses Demo](https://github.com/cmsteffen-code/curses_demo) - A demonstration of the use of curses with sockets.
+- [PySocks](https://github.com/Anorov/PySocks) - A SOCKS proxy client and wrapper for Python.
+- [Urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more [urllib3.readthedocs.io](https://urllib3.readthedocs.io).
