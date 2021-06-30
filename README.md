@@ -22,3 +22,6 @@
 - [Curses Demo](https://github.com/cmsteffen-code/curses_demo) - A demonstration of the use of curses with sockets.
 - [PySocks](https://github.com/Anorov/PySocks) - A SOCKS proxy client and wrapper for Python.
 - [Urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more [urllib3.readthedocs.io](https://urllib3.readthedocs.io).
+
+## User interface
+- [py_cui](https://jwlodek.github.io/py_cui-docs/) - py_cui is a python library meant to simplify writing command line user interfaces in python.
