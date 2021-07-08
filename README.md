@@ -25,3 +25,4 @@
 
 ## User interface
 - [py_cui](https://jwlodek.github.io/py_cui-docs/) - py_cui is a python library meant to simplify writing command line user interfaces in python.
+- [Terminal Menu](https://github.com/rzakaan/terminal-menu) - Creates a text-based menu in shell.
