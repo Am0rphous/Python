@@ -11,6 +11,9 @@
 - [Ultimate-Python-Resource-Hub](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub)
 - [uncompyle6](https://pypi.org/project/uncompyle6/)
 
+## Database
+- [Pyjbd](https://github.com/Datalux/pyjbd) - With pyjbd you can easly manage and use a database using JSON file.
+
 ## Files
 - [Python-Magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic.
 - [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
