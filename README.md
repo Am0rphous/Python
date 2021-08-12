@@ -5,6 +5,7 @@
 - [Base64Decoder](https://github.com/ghsecurity/Base64Decoder) - Simple python base 64 decoder.
 - [Cloudflare Scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [Homework-of-Python](https://github.com/3gstudent/Homework-of-Python) - 3gstudent's python collection.
+- [iCalendar](https://github.com/collective/icalendar) - icalendar parser library for Python.
 - [Python-basic-examples](https://github.com/bmaya1/python-basic-examples) - Repo contains different basic examples to show the versatility of Python.
 - [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
 - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. 
