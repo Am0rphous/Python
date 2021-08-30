@@ -9,6 +9,7 @@
 - [Homework-of-Python](https://github.com/3gstudent/Homework-of-Python) - 3gstudent's python collection.
 - [iCalendar](https://github.com/collective/icalendar) - icalendar parser library for Python.
 - [Introduksjon til Python-programmering](https://gitlab.stud.idi.ntnu.no/nilstesd/python-leksjoner)
+- [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
 - [Python-basic-examples](https://github.com/bmaya1/python-basic-examples) - Repo contains different basic examples to show the versatility of Python.
 - [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
 - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. 
