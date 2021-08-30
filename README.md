@@ -7,6 +7,7 @@
 - [Biopython](https://github.com/biopython/biopython) - The Biopython Project is an international association of developers of freely available Python tools for computational molecular biology.
 - [Cloudflare Scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [Homework-of-Python](https://github.com/3gstudent/Homework-of-Python) - 3gstudent's python collection.
+- [Huntfer](https://github.com/RyouYoo/huntfer) - An automation tool to help you to find weak functions in your target source code for potential attacks.
 - [iCalendar](https://github.com/collective/icalendar) - icalendar parser library for Python.
 - [Introduksjon til Python-programmering](https://gitlab.stud.idi.ntnu.no/nilstesd/python-leksjoner)
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
