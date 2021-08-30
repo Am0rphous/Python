@@ -4,10 +4,11 @@
 - [100-Days-of-Python](https://github.com/ashutoshkrris/100-Days-of-Python) - 100 Days of Code Challenge with Python.
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries and software [awesome-python.com](https://awesome-python.com/).
 - [Base64Decoder](https://github.com/ghsecurity/Base64Decoder) - Simple python base 64 decoder.
-- [Biopython]() - The Biopython Project is an international association of developers of freely available Python tools for computational molecular biology.
+- [Biopython](https://github.com/biopython/biopython) - The Biopython Project is an international association of developers of freely available Python tools for computational molecular biology.
 - [Cloudflare Scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [Homework-of-Python](https://github.com/3gstudent/Homework-of-Python) - 3gstudent's python collection.
 - [iCalendar](https://github.com/collective/icalendar) - icalendar parser library for Python.
+- [Introduksjon til Python-programmering](https://gitlab.stud.idi.ntnu.no/nilstesd/python-leksjoner)
 - [Python-basic-examples](https://github.com/bmaya1/python-basic-examples) - Repo contains different basic examples to show the versatility of Python.
 - [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
 - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. 
