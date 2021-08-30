@@ -13,7 +13,8 @@
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
 - [Python-basic-examples](https://github.com/bmaya1/python-basic-examples) - Repo contains different basic examples to show the versatility of Python.
 - [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
-- [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. 
+- [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
 - [Ultimate-Python-Resource-Hub](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub)
 - [uncompyle6](https://pypi.org/project/uncompyle6/)
 
