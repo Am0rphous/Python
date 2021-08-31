@@ -10,6 +10,7 @@
 - [Huntfer](https://github.com/RyouYoo/huntfer) - An automation tool to help you to find weak functions in your target source code for potential attacks.
 - [iCalendar](https://github.com/collective/icalendar) - icalendar parser library for Python.
 - [Introduksjon til Python-programmering](https://gitlab.stud.idi.ntnu.no/nilstesd/python-leksjoner)
+- [Pyenv - Simple Python Version Management](https://github.com/pyenv/pyenv)
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
 - [Python-basic-examples](https://github.com/bmaya1/python-basic-examples) - Repo contains different basic examples to show the versatility of Python.
 - [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
