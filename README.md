@@ -19,8 +19,11 @@
 - [Ultimate-Python-Resource-Hub](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub)
 - [uncompyle6](https://pypi.org/project/uncompyle6/)
 
-## Database
+## Databases
 - [Pyjbd](https://github.com/Datalux/pyjbd) - With pyjbd you can easly manage and use a database using JSON file.
+
+### Data Visualization
+- [Plotly](https://pypi.org/project/plotly/) - An open-source, interactive data visualization library for Python.
 
 ## Files
 - [Python-Magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic.
