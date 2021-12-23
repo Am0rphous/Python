@@ -13,6 +13,7 @@
 - [Introduksjon til Python-programmering](https://gitlab.stud.idi.ntnu.no/nilstesd/python-leksjoner)
 - [ITGK 2021 ](https://gitlab.stud.iie.ntnu.no/alekka/itgk-2021-magnustvilde-forelesningskode)
 - [Pyenv - Simple Python Version Management](https://github.com/pyenv/pyenv)
+- [PyInstaller Extractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor.
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
 - [Python-basic-examples](https://github.com/bmaya1/python-basic-examples) - Repo contains different basic examples to show the versatility of Python.
 - [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
