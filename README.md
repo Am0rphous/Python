@@ -12,6 +12,7 @@
 - [ICalendar](https://github.com/collective/icalendar) - icalendar parser library for Python.
 - [Introduksjon til Python-programmering](https://gitlab.stud.idi.ntnu.no/nilstesd/python-leksjoner)
 - [ITGK 2021 ](https://gitlab.stud.iie.ntnu.no/alekka/itgk-2021-magnustvilde-forelesningskode)
+- [PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow.
 - [Pyenv - Simple Python Version Management](https://github.com/pyenv/pyenv)
 - [PyInstaller Extractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor.
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
