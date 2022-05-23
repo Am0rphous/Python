@@ -5,3 +5,4 @@
 s = "python.hub"
 print (s[::-1])
 ````
+- [Textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
