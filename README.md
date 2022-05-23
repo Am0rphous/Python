@@ -31,6 +31,9 @@
    - [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
   - [Plotly](https://pypi.org/project/plotly/) - An open-source, interactive data visualization library for Python.
 
+## Dataclasses
+- [Dataclass Wizard](https://github.com/rnag/dataclass-wizard) - A simple, yet elegant, set of wizarding tools for interacting with Python dataclasses. 
+
 ## Files
 - [Python-Magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic.
 - [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
