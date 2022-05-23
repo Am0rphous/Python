@@ -6,22 +6,29 @@
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries and software [awesome-python.com](https://awesome-python.com/).
 - [Base64Decoder](https://github.com/ghsecurity/Base64Decoder) - Simple python base 64 decoder.
 - [Biopython](https://github.com/biopython/biopython) - The Biopython Project is an international association of developers of freely available Python tools for computational molecular biology.
+- [Cartopy](https://github.com/SciTools/cartopy) - Cartopy - a cartographic python library with matplotlib support 
 - [Cloudflare Scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [Homework-of-Python](https://github.com/3gstudent/Homework-of-Python) - 3gstudent's python collection.
 - [Huntfer](https://github.com/RyouYoo/huntfer) - An automation tool to help you to find weak functions in your target source code for potential attacks.
 - [ICalendar](https://github.com/collective/icalendar) - icalendar parser library for Python.
 - [Introduksjon til Python-programmering](https://gitlab.stud.idi.ntnu.no/nilstesd/python-leksjoner)
 - [ITGK 2021 ](https://gitlab.stud.iie.ntnu.no/alekka/itgk-2021-magnustvilde-forelesningskode)
+- [orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
+- [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
 - [PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow.
 - [Pyenv - Simple Python Version Management](https://github.com/pyenv/pyenv)
 - [PyInstaller Extractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor.
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
-- [Python-basic-examples](https://github.com/bmaya1/python-basic-examples) - Repo contains different basic examples to show the versatility of Python.
+- [Python Fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. 
+- [Python basic examples](https://github.com/bmaya1/python-basic-examples) - Repo contains different basic examples to show the versatility of Python.
 - [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
+- [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
 - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+  - [Enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
 - [SciPy.org](https://scipy.org/) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering. 
 - [sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
 - [Ultimate-Python-Resource-Hub](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub)
+- [What the f*ck Python](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 . Exploring and understanding Python through surprising snippets.
 - [uncompyle6](https://pypi.org/project/uncompyle6/)
 
 ## Databases
