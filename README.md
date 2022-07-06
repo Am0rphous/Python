@@ -61,6 +61,7 @@ print("My IP Address is: " + IPAddr)
 ````
 
 ## GUI and User interface
+- [Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - (It is not being developed anymore, but may be uses as inspo.) Modern GTK Python Ebook Reader app to easily read epub files.
 - [How to Create GUI Applications Under Linux Desktop Using PyGObject – Part 1](https://www.tecmint.com/create-gui-applications-in-linux/)
 - [py_cui](https://jwlodek.github.io/py_cui-docs/) - py_cui is a python library meant to simplify writing command line user interfaces in python.
 - [Terminal Menu](https://github.com/rzakaan/terminal-menu) - Creates a text-based menu in shell.
