@@ -35,7 +35,8 @@
 - [Pyjbd](https://github.com/Datalux/pyjbd) - With pyjbd you can easly manage and use a database using JSON file.
 
   ### Data Visualization
-   - [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
+  - [Cubealyzer](https://github.com/adamreiser/cubealyzer) - Curve analysis for Magic: the Gathering cubes 
+  - [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
   - [Plotly](https://pypi.org/project/plotly/) - An open-source, interactive data visualization library for Python.
 
 ## Dataclasses
