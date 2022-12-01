@@ -21,7 +21,6 @@
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
 - [Python Fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. 
 - [Python basic examples](https://github.com/bmaya1/python-basic-examples) - Repo contains different basic examples to show the versatility of Python.
-- [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
 - [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
 - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
   - [Enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
@@ -63,7 +62,9 @@ print("My IP Address is: " + IPAddr)
 ````
 
 ## GUI and User interface
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - (It is not being developed anymore, but may be uses as inspo.) Modern GTK Python Ebook Reader app to easily read epub files.
 - [How to Create GUI Applications Under Linux Desktop Using PyGObject – Part 1](https://www.tecmint.com/create-gui-applications-in-linux/)
 - [py_cui](https://jwlodek.github.io/py_cui-docs/) - py_cui is a python library meant to simplify writing command line user interfaces in python.
+- [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
 - [Terminal Menu](https://github.com/rzakaan/terminal-menu) - Creates a text-based menu in shell.
