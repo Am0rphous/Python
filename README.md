@@ -35,6 +35,7 @@
 
   ### Data Visualization
   - [Cubealyzer](https://github.com/adamreiser/cubealyzer) - Curve analysis for Magic: the Gathering cubes 
+  - [Csvtomd](https://github.com/mplewis/csvtomd) - 📝📊 Convert your CSV files into Markdown tables.
   - [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
   - [Plotly](https://pypi.org/project/plotly/) - An open-source, interactive data visualization library for Python.
 
