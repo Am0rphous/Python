@@ -30,6 +30,10 @@
 - [What the f*ck Python](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 . Exploring and understanding Python through surprising snippets.
 - [uncompyle6](https://pypi.org/project/uncompyle6/)
 
+## Code Analysis
+- [Pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
+
+
 ## Databases
 - [Pyjbd](https://github.com/Datalux/pyjbd) - With pyjbd you can easly manage and use a database using JSON file.
 
