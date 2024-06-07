@@ -72,6 +72,9 @@ if __name__ == '__main__':
     display_menu(window)
 ````
 - [Jonas' menu](https://stackoverflow.com/a/45577262) - this is also a nice one, but i prefer the code above for some reason
+
+[![menu.png](https://i.postimg.cc/KvN3xk1Q/menu.png)](https://postimg.cc/YhvCxSfm)
+
 ````python
 import curses
 #pip install windows-curses
