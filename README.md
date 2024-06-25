@@ -32,27 +32,30 @@
 - [What the f*ck Python](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 . Exploring and understanding Python through surprising snippets.
 - [uncompyle6](https://pypi.org/project/uncompyle6/)
 
-## Code Analysis
+## Learning Resources
+-[ Your Journey To Fluent Python ](https://github.com/pro1code1hack/Your-Journey-To-Fluent-Python)
+
+### Code Analysis
 - [Pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 
 
-## Databases
+### Databases
 - [Pyjbd](https://github.com/Datalux/pyjbd) - With pyjbd you can easly manage and use a database using JSON file.
 
-  ### Data Visualization
+  #### Data Visualization
   - [Cubealyzer](https://github.com/adamreiser/cubealyzer) - Curve analysis for Magic: the Gathering cubes 
   - [Csvtomd](https://github.com/mplewis/csvtomd) - 📝📊 Convert your CSV files into Markdown tables.
   - [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
   - [Plotly](https://pypi.org/project/plotly/) - An open-source, interactive data visualization library for Python.
 
-## Dataclasses
+### Dataclasses
 - [Dataclass Wizard](https://github.com/rnag/dataclass-wizard) - A simple, yet elegant, set of wizarding tools for interacting with Python dataclasses. 
 
-## Files
+### Files
 - [Python-Magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic.
 - [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
 
-## HTTP/S server
+### HTTP/S server
 - [Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 
 
