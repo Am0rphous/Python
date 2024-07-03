@@ -13,7 +13,7 @@ python3 -m http.server 8000 --bind 0.0.0.0 --ssl-cert server.pem --ssl-key serve
 ````
 [Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 
-<details>
+<details open>
   <summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">
       Using Flask
   </h4></summary>
@@ -29,7 +29,7 @@ if __name__ == '__main__':
 ````
 </details>
 
-<details><summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">Use a specific/vulnerable Flask version</h4></summary>
+<details open><summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">Use a specific/vulnerable Flask version</h4></summary>
     
 1. Specify an old flask version `pip install Flask>=1.0.0`
 
@@ -48,7 +48,7 @@ if __name__ == '__main__':
 ````
 </details>
 
-<details>
+<details open>
   <summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">
       Using Werkzeug
   </h4></summary>
