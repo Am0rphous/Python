@@ -11,8 +11,7 @@ python3 -m http.server 8000
 python3 -m http.server 8000 --bind 127.0.0.1 --ssl-cert server.pem --ssl-key server.key #only accessible to localhost
 python3 -m http.server 8000 --bind 0.0.0.0 --ssl-cert server.pem --ssl-key server.key #open for every interface
 ````
-- Others...
-- [Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
+[Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 
 
 <details>
@@ -50,8 +49,11 @@ if __name__ == '__main__':
 ````
 </details>
 
-
-#### Using Werkzeug
+<details>
+  <summary><h3 style="display: inline-block; font-size: 18px; font-weight: bold;">
+      Using Werkzeug
+  </h3></summary>
+  
 ````python
 from werkzeug.serving import run_simple
 from werkzeug.wrappers import Request, Response
@@ -63,3 +65,4 @@ def application(request):
 if __name__ == '__main__':
     run_simple('localhost', 8000, application, ssl_context=('server.pem', 'server.key'))
 ````
+</details>
