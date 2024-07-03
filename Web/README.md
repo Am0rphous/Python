@@ -26,12 +26,9 @@ if __name__ == '__main__':
 ````
 
 <details>
-   
-<summary> Use a specific/vulnerable Flask version </summary>
+<summary style="font-size: 1.2em; font-weight: bold;">Use a specific/vulnerable Flask version</summary>
 
-Specify an old flask version
-
-1. pip install Flask>=1.0.0
+1. Specify an old flask version `pip install Flask>=1.0.0`
 
 ````python
 
