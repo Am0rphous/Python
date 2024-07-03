@@ -26,7 +26,8 @@ def index():
     return 'Hello, World!'
 if __name__ == '__main__':
     app.run(ssl_context=('server.pem', 'server.key'))
-````</details>
+````
+</details>
 
 <details><summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">Use a specific/vulnerable Flask version</h4></summary>
     
