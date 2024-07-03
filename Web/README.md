@@ -13,11 +13,10 @@ python3 -m http.server 8000 --bind 0.0.0.0 --ssl-cert server.pem --ssl-key serve
 ````
 [Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 
-
 <details>
-  <summary><h3 style="display: inline-block; font-size: 18px; font-weight: bold;">
+  <summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">
       Using Flask
-  </h3></summary>
+  </h4></summary>
 
 ````python
 from flask import Flask
@@ -27,8 +26,7 @@ def index():
     return 'Hello, World!'
 if __name__ == '__main__':
     app.run(ssl_context=('server.pem', 'server.key'))
-````
-</details>
+````</details>
 
 <details><summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">Use a specific/vulnerable Flask version</h4></summary>
     
@@ -50,9 +48,9 @@ if __name__ == '__main__':
 </details>
 
 <details>
-  <summary><h3 style="display: inline-block; font-size: 18px; font-weight: bold;">
+  <summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">
       Using Werkzeug
-  </h3></summary>
+  </h4></summary>
   
 ````python
 from werkzeug.serving import run_simple
