@@ -29,24 +29,78 @@ if __name__ == '__main__':
 ````
 </details>
 
+
+
+
 <details open><summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">Use a specific/vulnerable Flask version</h4></summary>
     
 1. Specify an old flask version `pip install Flask>=1.0.0`
 
 ````python
-
 from flask import Flask
-
 app = Flask(__name__)
-
 @app.route('/')
 def index():
     return 'Hello, World!'
-
 if __name__ == '__main__':
     app.run(ssl_context=('server.pem', 'server.key'))
 ````
 </details>
+
+
+
+
+
+<details open><summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">
+  Create a vulnerable Flask app
+</h4></summary>
+    
+1. Specify an old flask version `pip install Flask>=1.0.0`
+
+````python
+from flask import Flask, request
+
+app = Flask(__name__)
+
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    if request.method == 'POST':
+        ip_address = request.form['ip_address']
+        result = subprocess.run(['ping', '-c', '4', ip_address], capture_output=True, text=True)
+        return render_template_string('''
+            <html>
+              <head>
+                <title>Ping Result</title>
+              </head>
+              <body>
+                <h1>Ping Result for {{ ip_address }}</h1>
+                <pre>{{ output }}</pre>
+              </body>
+            </html>
+        ''', ip_address=ip_address, output=result.stdout)
+    return render_template_string('''
+        <html>
+          <head>
+            <title>Ping App</title>
+          </head>
+          <body>
+            <h1>Ping App</h1>
+            <form method="POST">
+              <label for="ip_address">IP Address:</label>
+              <input type="text" id="ip_address" name="ip_address">
+              <button type="submit">Ping</button>
+            </form>
+          </body>
+        </html>
+    ''')
+
+if __name__ == '__main__':
+    app.run(debug=True)
+````
+</details>
+
+
+
 
 <details open>
   <summary><h4 style="display: inline-block; font-size: 18px; font-weight: bold;">
