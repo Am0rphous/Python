@@ -55,7 +55,4 @@
 - [Python-Magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic.
 - [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
 
-### HTTP/S server
-- [Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
-
 
