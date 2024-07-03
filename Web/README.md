@@ -25,6 +25,31 @@ if __name__ == '__main__':
     app.run(ssl_context=('server.pem', 'server.key'))
 ````
 
+<details>
+   
+<summary> Use a specific/vulnerable Flask version </summary>
+
+Specify an old flask version
+
+1. pip install Flask>=1.0.0
+
+````python
+
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return 'Hello, World!'
+
+if __name__ == '__main__':
+    app.run(ssl_context=('server.pem', 'server.key'))
+````
+
+</details>
+
+
 #### Using Werkzeug
 ````python
 from werkzeug.serving import run_simple
