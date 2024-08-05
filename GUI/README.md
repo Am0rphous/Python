@@ -7,5 +7,6 @@
 - [Nicegui](https://github.com/zauberzeug/nicegui) - Create UI. For the web. With Python. The nice way.
 
 - [py_cui](https://jwlodek.github.io/py_cui-docs/) - py_cui is a python library meant to simplify writing command line user interfaces in python.
+- [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! 
 - [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
 - [Terminal Menu](https://github.com/rzakaan/terminal-menu) - Creates a text-based menu in shell.
