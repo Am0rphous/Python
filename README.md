@@ -1,14 +1,14 @@
 # 🐍 P y t h o n
 
 - `mkenv` = make environment. Run this to have a command to make a virtuel environment in python. Saves timeeeee ⌛
-````shell
-echo "alias mkenv='python3 -m venv myenv && source myenv/bin/activate'" >> ~/.zshrc && source ~/.zshrc
-
-#Example usage
-cd ~/github-folder/myrepo/
-mkenv
-pip3 install whatever in the env....
-````
+  ````shell
+  echo "alias mkenv='python3 -m venv myenv && source myenv/bin/activate'" >> ~/.zshrc && source ~/.zshrc
+  
+  #Example usage
+  cd ~/github-folder/myrepo/
+  mkenv
+  pip3 install whatever in the env....
+  ````
 
 <br>
 
