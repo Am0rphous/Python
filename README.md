@@ -10,7 +10,12 @@
   mkenv
   pip3 install <whatever in env>
   ````
-
+- Or just use [pinenv](https://pypi.org/project/pipenv/) with
+````python
+#pip install pipenv
+pipenv install --skip-lock && pipenv shell
+<install whatever in this virt env>
+```` 
 <br>
 
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step by step guide to learn the Python programming language in 30 days. This challenge may take up to 100 days, follow your own pace.
