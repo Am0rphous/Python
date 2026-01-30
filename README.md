@@ -11,11 +11,12 @@
   pip3 install <whatever in env>
   ````
 - Or just use [pinenv](https://pypi.org/project/pipenv/) with
-````python
-#pip install pipenv
-pipenv install --skip-lock && pipenv shell
-<install whatever in this virt env>
-```` 
+  ````python
+  #pip install pipenv
+  pipenv install --skip-lock
+  pipenv shell
+  <install whatever>
+  ```` 
 <br>
 
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step by step guide to learn the Python programming language in 30 days. This challenge may take up to 100 days, follow your own pace.
@@ -50,8 +51,27 @@ pipenv install --skip-lock && pipenv shell
 - [What the f*ck Python](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 . Exploring and understanding Python through surprising snippets.
 - [uncompyle6](https://pypi.org/project/uncompyle6/)
 
+## Package managers
+- [Uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. [Documentation](https://docs.astral.sh/uv/getting-started/)
+  ````python
+  uv python install
+  ````
+- [Pip](https://github.com/pypa/pip) - pyhon 2
+  ````python
+  python get-pip.py
+  sudo apt-get install python-pip 
+  pip -v
+  python -m pip install --upgrade pip
+  ````
+- Pip3 - python 3
+  ````python
+  python3 -m pip                   # install via python
+  sudo apt install python3-pip     # bash
+  pip3 -v
+  ````
+
 ## Learning Resources
--[ Your Journey To Fluent Python ](https://github.com/pro1code1hack/Your-Journey-To-Fluent-Python)
+-[Your Journey To Fluent Python ](https://github.com/pro1code1hack/Your-Journey-To-Fluent-Python)
 
 ### Code Analysis
 - [Pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
