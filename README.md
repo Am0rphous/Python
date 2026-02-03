@@ -3,6 +3,8 @@
 - `mkenv` = make environment (python). Run the command below to create a virtuel environment in python. Saves timeeeee ⌛
 
   ````shell
+  echo $SHELL    # List your shell first
+  
   # zsh
   echo "alias mkenv='python3 -m venv myenv && source myenv/bin/activate'" >> ~/.zshrc && source ~/.zshrc
 
