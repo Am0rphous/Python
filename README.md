@@ -1,5 +1,5 @@
 # 🐍 P y t h o n
-
+- free ebook [Automate the Boring Stuff with Python ](https://automatetheboringstuff.com/)
 - `mkenv` = make environment (python). Run the command below to create a virtuel environment in python. Saves timeeeee ⌛
 
   ````shell
