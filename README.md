@@ -2,7 +2,7 @@
 - free ebook [Automate the Boring Stuff with Python ](https://automatetheboringstuff.com/)
 - `mkenv` = make environment (python). Run the command below to create a virtuel environment in python. Saves timeeeee ⌛
 
-  ````shell
+  ```shell
   echo $SHELL    # List your shell first
   
   # zsh
@@ -15,14 +15,14 @@
   mkdir ~/github/newRepo/
   mkenv
   pip3 install <whatever in env>
-  ````
+  ```
 - Or just use [pinenv](https://pypi.org/project/pipenv/) with
-  ````python
+  ```python
   #pip install pipenv
   pipenv install --skip-lock
   pipenv shell
   <install whatever>
-  ```` 
+  ```
 <br>
 
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step by step guide to learn the Python programming language in 30 days. This challenge may take up to 100 days, follow your own pace.
@@ -46,6 +46,7 @@
 - [Pyenv - Simple Python Version Management](https://github.com/pyenv/pyenv)
 - [PyInstaller Extractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor.
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
+- [Python - samonclique](https://github.com/samonclique/Python) - A comprehensive guide to learning Python
 - [Python Fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. 
 - [Python basic examples](https://github.com/bmaya1/python-basic-examples) - Repo contains different basic examples to show the versatility of Python.
 - [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
